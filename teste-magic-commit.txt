@@ -1,0 +1,5 @@
+﻿Hello World do Magic-Commit!
+Data: 08/06/2025 23:07:38
+Este arquivo foi criado automaticamente pelo nosso MVP.
+
+Magic-Commit funcionou!
